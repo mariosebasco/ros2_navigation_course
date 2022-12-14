@@ -1,0 +1,41 @@
+[3.664s] Invoking command in '/home/user/ros2_ws/src/path_planner_server': PYTHONPATH=/home/user/ros2_ws/install/path_planner_server/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/path_planner_server build --build-base /home/user/ros2_ws/build/path_planner_server/build install --prefix /home/user/ros2_ws/install/path_planner_server --record /home/user/ros2_ws/build/path_planner_server/install.log --single-version-externally-managed
+[3.966s] running egg_info
+[3.966s] creating ../../build/path_planner_server/path_planner_server.egg-info
+[3.967s] writing ../../build/path_planner_server/path_planner_server.egg-info/PKG-INFO
+[3.967s] writing dependency_links to ../../build/path_planner_server/path_planner_server.egg-info/dependency_links.txt
+[3.968s] writing entry points to ../../build/path_planner_server/path_planner_server.egg-info/entry_points.txt
+[3.968s] writing requirements to ../../build/path_planner_server/path_planner_server.egg-info/requires.txt
+[3.968s] writing top-level names to ../../build/path_planner_server/path_planner_server.egg-info/top_level.txt
+[4.068s] writing manifest file '../../build/path_planner_server/path_planner_server.egg-info/SOURCES.txt'
+[4.114s] reading manifest file '../../build/path_planner_server/path_planner_server.egg-info/SOURCES.txt'
+[4.115s] writing manifest file '../../build/path_planner_server/path_planner_server.egg-info/SOURCES.txt'
+[4.115s] running build
+[4.116s] running build_py
+[4.116s] creating /home/user/ros2_ws/build/path_planner_server/build
+[4.116s] creating /home/user/ros2_ws/build/path_planner_server/build/lib
+[4.116s] creating /home/user/ros2_ws/build/path_planner_server/build/lib/path_planner_server
+[4.117s] copying path_planner_server/__init__.py -> /home/user/ros2_ws/build/path_planner_server/build/lib/path_planner_server
+[4.117s] running install
+[4.117s] running install_lib
+[4.118s] creating /home/user/ros2_ws/install/path_planner_server/lib/python3.8/site-packages/path_planner_server
+[4.119s] copying /home/user/ros2_ws/build/path_planner_server/build/lib/path_planner_server/__init__.py -> /home/user/ros2_ws/install/path_planner_server/lib/python3.8/site-packages/path_planner_server
+[4.119s] byte-compiling /home/user/ros2_ws/install/path_planner_server/lib/python3.8/site-packages/path_planner_server/__init__.py to __init__.cpython-38.pyc
+[4.121s] running install_data
+[4.121s] creating /home/user/ros2_ws/install/path_planner_server/share/ament_index
+[4.122s] creating /home/user/ros2_ws/install/path_planner_server/share/ament_index/resource_index
+[4.122s] creating /home/user/ros2_ws/install/path_planner_server/share/ament_index/resource_index/packages
+[4.122s] copying resource/path_planner_server -> /home/user/ros2_ws/install/path_planner_server/share/ament_index/resource_index/packages
+[4.123s] copying package.xml -> /home/user/ros2_ws/install/path_planner_server/share/path_planner_server
+[4.123s] creating /home/user/ros2_ws/install/path_planner_server/share/path_planner_server/launch
+[4.123s] copying launch/pathplanner.launch.py -> /home/user/ros2_ws/install/path_planner_server/share/path_planner_server/launch
+[4.123s] creating /home/user/ros2_ws/install/path_planner_server/share/path_planner_server/config
+[4.123s] copying config/controller.yaml -> /home/user/ros2_ws/install/path_planner_server/share/path_planner_server/config
+[4.123s] copying config/recovery.yaml -> /home/user/ros2_ws/install/path_planner_server/share/path_planner_server/config
+[4.124s] copying config/planner_server.yaml -> /home/user/ros2_ws/install/path_planner_server/share/path_planner_server/config
+[4.124s] copying config/bt_navigator.yaml -> /home/user/ros2_ws/install/path_planner_server/share/path_planner_server/config
+[4.124s] copying config/behavior.xml -> /home/user/ros2_ws/install/path_planner_server/share/path_planner_server/config
+[4.124s] running install_egg_info
+[4.125s] Copying ../../build/path_planner_server/path_planner_server.egg-info to /home/user/ros2_ws/install/path_planner_server/lib/python3.8/site-packages/path_planner_server-0.0.0-py3.8.egg-info
+[4.127s] running install_scripts
+[4.148s] writing list of installed files to '/home/user/ros2_ws/build/path_planner_server/install.log'
+[4.169s] Invoked command in '/home/user/ros2_ws/src/path_planner_server' returned '0': PYTHONPATH=/home/user/ros2_ws/install/path_planner_server/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/path_planner_server build --build-base /home/user/ros2_ws/build/path_planner_server/build install --prefix /home/user/ros2_ws/install/path_planner_server --record /home/user/ros2_ws/build/path_planner_server/install.log --single-version-externally-managed

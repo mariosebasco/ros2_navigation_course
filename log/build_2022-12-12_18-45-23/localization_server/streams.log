@@ -1,0 +1,37 @@
+[2.091s] Invoking command in '/home/user/ros2_ws/src/localization_server': PYTHONPATH=/home/user/ros2_ws/install/localization_server/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization_server build --build-base /home/user/ros2_ws/build/localization_server/build install --prefix /home/user/ros2_ws/install/localization_server --record /home/user/ros2_ws/build/localization_server/install.log --single-version-externally-managed
+[2.472s] running egg_info
+[2.473s] creating ../../build/localization_server/localization_server.egg-info
+[2.473s] writing ../../build/localization_server/localization_server.egg-info/PKG-INFO
+[2.473s] writing dependency_links to ../../build/localization_server/localization_server.egg-info/dependency_links.txt
+[2.474s] writing entry points to ../../build/localization_server/localization_server.egg-info/entry_points.txt
+[2.474s] writing requirements to ../../build/localization_server/localization_server.egg-info/requires.txt
+[2.474s] writing top-level names to ../../build/localization_server/localization_server.egg-info/top_level.txt
+[2.477s] writing manifest file '../../build/localization_server/localization_server.egg-info/SOURCES.txt'
+[2.539s] reading manifest file '../../build/localization_server/localization_server.egg-info/SOURCES.txt'
+[2.540s] writing manifest file '../../build/localization_server/localization_server.egg-info/SOURCES.txt'
+[2.540s] running build
+[2.540s] running build_py
+[2.540s] creating /home/user/ros2_ws/build/localization_server/build
+[2.541s] creating /home/user/ros2_ws/build/localization_server/build/lib
+[2.541s] creating /home/user/ros2_ws/build/localization_server/build/lib/localization_server
+[2.542s] copying localization_server/__init__.py -> /home/user/ros2_ws/build/localization_server/build/lib/localization_server
+[2.543s] running install
+[2.545s] running install_lib
+[2.545s] creating /home/user/ros2_ws/install/localization_server/lib/python3.8/site-packages/localization_server
+[2.548s] copying /home/user/ros2_ws/build/localization_server/build/lib/localization_server/__init__.py -> /home/user/ros2_ws/install/localization_server/lib/python3.8/site-packages/localization_server
+[2.548s] byte-compiling /home/user/ros2_ws/install/localization_server/lib/python3.8/site-packages/localization_server/__init__.py to __init__.cpython-38.pyc
+[2.548s] running install_data
+[2.549s] creating /home/user/ros2_ws/install/localization_server/share/ament_index
+[2.549s] creating /home/user/ros2_ws/install/localization_server/share/ament_index/resource_index
+[2.549s] creating /home/user/ros2_ws/install/localization_server/share/ament_index/resource_index/packages
+[2.550s] copying resource/localization_server -> /home/user/ros2_ws/install/localization_server/share/ament_index/resource_index/packages
+[2.550s] copying package.xml -> /home/user/ros2_ws/install/localization_server/share/localization_server
+[2.550s] creating /home/user/ros2_ws/install/localization_server/share/localization_server/launch
+[2.550s] copying launch/localization.launch.py -> /home/user/ros2_ws/install/localization_server/share/localization_server/launch
+[2.550s] creating /home/user/ros2_ws/install/localization_server/share/localization_server/config
+[2.551s] copying config/amcl_config.yaml -> /home/user/ros2_ws/install/localization_server/share/localization_server/config
+[2.551s] running install_egg_info
+[2.553s] Copying ../../build/localization_server/localization_server.egg-info to /home/user/ros2_ws/install/localization_server/lib/python3.8/site-packages/localization_server-0.0.0-py3.8.egg-info
+[2.554s] running install_scripts
+[2.580s] writing list of installed files to '/home/user/ros2_ws/build/localization_server/install.log'
+[2.613s] Invoked command in '/home/user/ros2_ws/src/localization_server' returned '0': PYTHONPATH=/home/user/ros2_ws/install/localization_server/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/localization_server build --build-base /home/user/ros2_ws/build/localization_server/build install --prefix /home/user/ros2_ws/install/localization_server --record /home/user/ros2_ws/build/localization_server/install.log --single-version-externally-managed
